@@ -1,0 +1,35 @@
+<resources>
+    //Название приложения
+    <string name="app_name">DroidQuest</string>
+
+    //Кнопки
+    <string name="true_button">Да</string>
+    <string name="false_button">Нет</string>
+    <string name="action_settings">Settings</string>
+
+    //"Обмануть"
+    <string name="warning_text">Вы уверены, что хотите это сделать?</string>
+    <string name="show_answer_button">Показать ответ</string>
+    <string name="deceit_button">Обмануть !</string>
+    <string name="judgment_toast">Обманывать нельзя.</string>
+
+    <string name="title_activity_deceit">Deceit</string>
+
+
+    //Вопросы
+    <string name="question_android">ОС Android основана на ядре Linux.</string>
+    <string name="question_linear">Разметка LinearLayout позицианирует свои дочерние элементы в строки и столбцы.</string>
+    <string name="question_service">Компонент Android-приложения Service предоставляют доступ к данным.</string>
+    <string name="question_res">Ресурсы приложения содержатся в отдельном файле XML.</string>
+    <string name="question_manifest">AndroidManifest.xml предоставляет системе основную информацию о программе.</string>
+
+    <string name="question_android1">Values – содержит XML файлы, которые определяют простые значения, таких ресурсов как, строки, числа, цвета.</string>
+    <string name="question_linear1">Animator - содержит XML файлы, которые определяют списки цветов.</string>
+    <string name="question_service1">Android использует виртуальную машину Java (JVM) для выполнения файлов классов.</string>
+    <string name="question_res1">Над ядром операционной системы располагается Android Runtime – среда выполнения приложений.</string>
+    <string name="question_manifest1">Для платформы Android исходный java код транслируется в байт код и далее в далвик байт-код, с расширением .dex (Dalvik Executable Format).</string>
+
+    //Сообщения
+    <string name="correct_toast">Верно!</string>
+    <string name="incorrect_toast">Не верно!</string>
+</resources>
